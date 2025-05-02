@@ -1,0 +1,23 @@
+{
+  "start": "Agar botni boshqa tilga o'zgartirmoqchi bo'lsangiz shunchaki /lang buyrug'ini jo'nating.\nTilni tanlang:",
+  "main_text": "Xo‘p, nima qilishni tanlaymiz: ",
+  "add_action": "Eslatma qo'shish",
+  "added_action": "Mening eslatmalarim",
+  "choose_actions": "Nima qilishni tanlang: ",
+  "send_message": "Eslatma matnini yuboring (70 belgidan oshmasligi kerak): ",
+  "urgent_reminder": "Matn juda uzun! Xabar 70 ta belgidan iborat bo'lishligi kerak.",
+  "max_reminder": "Siz allaqachon 3 ta eslatmani saqladingiz. Yangilarini qo'shish uchun eskilarini olib tashlang.",
+  "reminder_saved": "Xabarnoma saqlandi!",
+  "send_reminders": "Sizni barcha eslatmalaringiz: " ,
+  "no_reminders": "Ayni vaqtda sizda hech qanday eslatmalar mavjud emas :(",
+  "choose_month": "Oyni tanlang:",
+  "delete_reminder": "O'chirish",
+  "reminder_deleted": "✅ Xabarnoma o'chirildi!",
+  "alert_error": "❌ Xatolik: xabarnoma topilmadi",
+  "month":["Yanvar","Fevral","Mart","Aprel","May","Iyun","Iyul","Avgust","Sentabr","Oktabr","Noyabr","Dekabr"],
+  "choose_date": "Sanani tanlang",
+  "invalid_date": "Noto'g'ri format",
+  "feedback": "SI yordam",
+  "reminder": "Reminder",
+  "days_left": "Qolgan kun: "
+}

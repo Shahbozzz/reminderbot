@@ -1,0 +1,23 @@
+{
+  "start" : "Later If you want to change language to another language, send /lang command.\nChoose the language: ",
+  "main_text": "Alright,let's choose what to do: ",
+  "add_action": "Add action to remind",
+  "added_action": "My actions to remind",
+  "choose_actions": "Choose actions: ",
+  "send_message": "Send a reminder text (no more than 70 characters): ",
+  "urgent_reminder": "The text is too long! Send a message with up to 70 characters.",
+  "max_reminder":"You have already saved 3 reminders. Delete the old ones to add new ones!",
+  "reminder_saved": "Text saved!",
+  "send_reminders": "Here is your reminders: ",
+  "no_reminders": "You do not have any reminders:(",
+  "choose_month": "Choose month:",
+  "delete_reminder": "Delete",
+  "reminder_deleted": "✅ Reminder deleted!",
+  "alert_error": "❌ Error:Reminder doesn't exist.",
+  "month": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+  "choose_date": "Choose date",
+  "invalid_date": "Invalid date",
+  "feedback": "AI feedback",
+  "reminder": "Reminder",
+  "days_left": "Days left: "
+}
